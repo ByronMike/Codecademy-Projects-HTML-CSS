@@ -28,34 +28,34 @@ The other practical works and exercises proposed during the lessons are not ment
 
 1. Welcome to the Full-Stack Engineer Path
 2. Fundamentals of HTML
-	- [First Project].................00A-First-Project
-	- [Model Structure]...............00B-Structured-Project
-	- [HTML Structure]................01-Fashion-Blog
-    - [HTML Table]........................02-Wine-Festival-Schedule
-    - [HTML Semantic].....................03-NewYork-City-Blog
+	- [First Project]..............................00A-First-Project
+	- [Model Structure].....................00B-Structured-Project
+	- [HTML Structure]......................01-Fashion-Blog
+	- [HTML Table]..............................02-Wine-Festival-Schedule
+	- [HTML Semantic]......................03-NewYork-City-Blog
 3. Fundamentals of CSS
-	- [CSS Selectors].................04-Healthy-Recipes
-	- [CSS Visual Rules]..............05-Olivia-Woodruff-Portfolio
-	- [CSS Box Model].................06-Box-Model-Davie-Burgers
-    - [CSS Display].......................07-Broadway
+	- [CSS Selectors]...........................04-Healthy-Recipes
+	- [CSS Visual Rules].....................05-Olivia-Woodruff-Portfolio
+	- [CSS Box Model].......................06-Box-Model-Davie-Burgers
+	- [CSS Display]..............................07-Broadway
 4. Developing Websites Locally
-	- [Off-platform Project]..........08-Dasmotos-Arts-Crafts
+	- [Off-platform Project]............08-Dasmotos-Arts-Crafts
 5. Deploying Websites
-	- [Command line]..................09-Bicyle-World
-	- [Command line]..................10-Daily-Buzz
+	- [Command line].......................09-Bicyle-World
+	- [Command line].......................10-Daily-Buzz
 6. Improved Styling with CSS
-	- [CSS Colors]....................11-Paint-Store
-	- [CSS Typography]................12-Typography
-	- [CSS Challenge Project].........13-Build-Cheatsheet
-	- [CSS Links & Buttons]...........14-The-Summit
-	- [CSS Navigation]................15-Freshdeals-Blueberries
-	- [CSS Responsive]................16-Build-Website-System
+	- [CSS Colors]...............................11-Paint-Store
+	- [CSS Typography]....................12-Typography
+	- [CSS Challenge Project]........13-Build-Cheatsheet
+	- [CSS Links & Buttons]............14-The-Summit
+	- [CSS Navigation]......................15-Freshdeals-Blueberries
+	- [CSS Responsive]......................16-Build-Website-System
 7. Making a Website Responsive
-	- [CSS Flexbox]...................17-Flexbox-Todo-App
-	- [CSS Flexbox]...................18-Tea-Cozy
-	- [CSS Grid]......................19-PupSpa
-	- [CSS Grid]......................20-Task-Board
-	- [CSS Media Queries].............21-Tsunami-Coffee
+	- [CSS Flexbox].............................17-Flexbox-Todo-App
+	- [CSS Flexbox].............................18-Tea-Cozy
+	- [CSS Grid]....................................19-PupSpa
+	- [CSS Grid]....................................20-Task-Board
+	- [CSS Media Queries]...............21-Tsunami-Coffee
 	- [CSS Challenge Project].........22-Home-Page-Flexbox*
 	- [CSS Challenge Project].........23-Responsive-Club-Website*
 
