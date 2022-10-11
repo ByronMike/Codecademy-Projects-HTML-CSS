@@ -1,0 +1,100 @@
+/* Style */
+
+/* Header */
+Header h1 {
+}
+/* Nav */
+
+/* Section */
+
+body {
+    margin : 0 10%;
+}
+
+.color-container {
+    width: 100%;
+    display: block;
+    border : 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    color: black
+}
+
+.color-panel.black{
+    background-color: black;
+    color:white;
+}
+
+.color-panel.grey{
+    background-color: hsla(245, 5%, 53%, 1);
+}
+
+.color-panel.skyblue{
+    background-color: hsla(196, 70%, 53%, 1);
+}
+
+.color-panel.deepblue{
+    background-color: hsla(241, 81%, 44%, 1);
+    color: white;
+}
+
+
+.font-container {
+    width: 100%;
+    display: block;
+    border : 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.font{
+    display: inline-block;
+    padding: 10px;
+}
+
+.font.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.font.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font.joan{
+    font-family: 'Joan', serif;
+}
+
+.font-label{
+    font-size: 20;
+    text-decoration: underline;
+}
+
+.font-normal{
+
+}
+
+.font-bold {
+    font-weight: bold;
+}
+
+.font-italic{
+    font-style: italic;
+}
+
+.style-container {
+    width: 100%;
+    display: block;
+    border : 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}  
+
+/* Footer */
+

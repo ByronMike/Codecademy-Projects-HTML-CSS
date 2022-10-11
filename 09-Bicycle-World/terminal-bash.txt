@@ -1,0 +1,45 @@
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii
+$ ls
+brands.txt  freight  mountain  racing
+$ cd freight/
+$ ls
+messenger  porteur
+$ cd porteur/
+$ ls
+$ cd ..
+$ ls
+messenger  porteur
+$ cd ..
+$ ls
+brands.txt  freight  mountain  racing
+$ cd mountain/downhill
+$ ls
+heavyweight  lightweight
+$ touch dirt.txt
+$ touch mud.txt
+$ ls
+dirt.txt  heavyweight  lightweight  mud.txt
+$ mkdir safety/
+$ ls
+dirt.txt  heavyweight  lightweight  mud.txt  safety
+$ cd bicyle-world-ii
+bash: cd: bicyle-world-ii: No such file or directory
+$ cd bicycle-world-ii/
+bash: cd: bicycle-world-ii/: No such file or directory
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii/mountain/downhill
+$ cd ../..
+$ ls
+brands.txt  freight  mountain  racing
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii
+$ mkdir bmx/
+$ ls
+bmx  brands.txt  freight  mountain  racing
+$ touch bmx/tricks.txt
+$ ls
+bmx  brands.txt  freight  mountain  racing
+$ cd bmx
+$ ls
+tricks.txt

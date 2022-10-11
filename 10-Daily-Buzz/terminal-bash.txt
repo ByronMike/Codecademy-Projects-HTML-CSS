@@ -1,0 +1,55 @@
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ ls
+culture  health  national  technology
+$ cd national/politics/
+$ ls
+policy
+$ pwd
+/home/ccuser/workspace/daily-buzz/national/politics
+$ mkdir elections
+$ ls
+elections  policy
+$ cd elections
+$ touch candidates.txt
+$ touch issues.txt
+$ ls
+candidates.txt  issues.txt
+$ cd ../../..
+$ ls
+culture  health  national  technology
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ mkdir business
+$ cd business
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ la
+bash: la: command not found
+$ ls
+$ mkdir startups
+$ cd startups
+$ cd ..
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ mkdir startups/disruptors
+$ ls
+startups
+$ cd startups
+$ ls
+disruptors
+$ cd ../..
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ cd business
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ touch startups/disruptors/tech.txt
+$ touch startups/disruptors/design.txt
+$ touch startups/disruptors/education.txt
+$ cd startups/disruptors
+$ ls
+design.txt  education.txt  tech.txt
+$ cd ../../..
+$ pwd
+/home/ccuser/workspace/daily-buzz

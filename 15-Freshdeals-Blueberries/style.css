@@ -1,0 +1,16 @@
+.breadcrumbs li {
+  display: inline;
+}
+
+.breadcrumbs li.location+li.location::before {
+    content: ">";
+}
+
+.breadcrumbs li.attribute {
+    color: green;
+}
+
+.breadcrumbs li :hover {
+  color: blue;
+}
+
