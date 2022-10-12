@@ -46,6 +46,6 @@ Codecademy integrated shell.
 :heavy_check_mark: This project was validated on August 5, 2022.
 
 ## Contact
-* [Email](mailto:auger.michaell@gmail;com)
+* [Email](mailto:auger.michaell@gmail.com)
 * [GitHub](https://github.com/ByronMike)
 * [LinkedIn](https://www.linkedin.com/in/auger-michael/)
