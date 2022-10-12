@@ -13,7 +13,7 @@ Design of a responsive layout grid using CSS3 Flexbox Layout.
 ## General information
 
 Codecademy instructions :
-> > In order to complete this project, you must know how to set an element’s Flexbox properties. We recommend that you review our Flexbox Lesson before beginning.
+> In order to complete this project, you must know how to set an element’s Flexbox properties. We recommend that you review our Flexbox Lesson before beginning.
 The website’s existing index.html and style.css files are displayed in the text editor to the right. Good luck!
 
 ## Technologies
