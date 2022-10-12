@@ -40,7 +40,7 @@ bicycle-world-ii \
  * Scripting : **Shell**
  
 ## Setup
-Not applicable.
+Codecademy integrated shell.
 
 ## Status
 :heavy_check_mark: This project was validated on August 5, 2022.
