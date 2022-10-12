@@ -80,6 +80,6 @@ Notes* : to be completed.
 :heavy_check_mark: This project was validated on October 10, 2022.
 
 ## Contact
-* [Email](mailto:auger.michaell@gmail;com)
+* [Email](mailto:auger.michaell@gmail.com)
 * [GitHub](https://github.com/ByronMike)
 * [LinkedIn](https://www.linkedin.com/in/auger-michael/)
