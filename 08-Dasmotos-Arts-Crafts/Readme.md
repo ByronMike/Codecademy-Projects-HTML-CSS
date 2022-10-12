@@ -17,8 +17,8 @@ Codecademy instructions :
 > In this project, you’ll build a simple website for a fictional arts and crafts store using the tools on your own computer. This project will provide you with less guidance than previous projects. You should expect to use the internet, Codecademy, and other resources when you encounter a problem that you cannot easily solve.
 The rest of the page’s styling (font sizes, colors, etc.) is outlined in the following design spec, which is a standard document you’d expect to receive as a freelance web developer :
 
-![image](![image](https://user-images.githubusercontent.com/57943061/195313170-729f663a-fe36-4cac-9131-b8934ea81ec1.png)
-)
+![Picture](https://github.com/ByronMike/Codecademy-Projects-HTML-CSS/blob/main/08-Dasmotos-Arts-Crafts/Ex_dasmotos-arts_redline.jpg?raw=true)
+
 
 ## Technologies
 **Tools:**
