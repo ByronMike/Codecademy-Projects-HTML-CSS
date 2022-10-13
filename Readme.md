@@ -44,21 +44,21 @@ The other practical works and exercises proposed during the lessons are not ment
 	- [Command line].......................09-Bicyle-World
 	- [Command line].......................10-Daily-Buzz
 6. Improved Styling with CSS
-	- [CSS Colors]....................11-Paint-Store
-	- [CSS Typography]............12-Typography
-	- [CSS Challenge Project]..13-Build-Cheatsheet
-	- [CSS Links & Buttons]......14-The-Summit
-	- [CSS Navigation]..............15-Freshdeals-Blueberries
-	- [CSS Responsive]............16-Build-Website-System
-	- [Off-Platform Project].......17-Fotomatic
+	- [CSS Colors]...............................11-Paint-Store
+	- [CSS Typography]....................12-Typography
+	- [CSS Challenge Project].........13-Build-Cheatsheet
+	- [CSS Links & Buttons]............14-The-Summit
+	- [CSS Navigation]......................15-Freshdeals-Blueberries
+	- [CSS Responsive]......................16-Build-Website-System
+	- [Off-Platform Project].............17-Fotomatic
 7. Making a Website Responsive
-	- [CSS Flexbox]..................18-Flexbox-Todo-App
-	- [CSS Flexbox]..................19-Tea-Cozy
-	- [CSS Grid]........................20-PupSpa
-	- [CSS Grid]........................21-Task-Board
-	- [CSS Media Queries]........22-Tsunami-Coffee
-	- [CSS Challenge Project]...23-Home-Page-Flexbox*
-	- [CSS Challenge Project]...24-Responsive-Club-Website*
+	- [CSS Flexbox]..............................18-Flexbox-Todo-App
+	- [CSS Flexbox]..............................19-Tea-Cozy
+	- [CSS Grid].....................................20-PupSpa
+	- [CSS Grid].....................................21-Task-Board
+	- [CSS Media Queries]................22-Tsunami-Coffee
+	- [CSS Challenge Project]..........23-Home-Page-Flexbox*
+	- [CSS Challenge Project]..........24-Responsive-Club-Website*
 
 Notes* : to be completed.
 
