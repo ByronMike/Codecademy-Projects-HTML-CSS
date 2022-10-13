@@ -50,14 +50,15 @@ The other practical works and exercises proposed during the lessons are not ment
 	- [CSS Links & Buttons]......14-The-Summit
 	- [CSS Navigation]..............15-Freshdeals-Blueberries
 	- [CSS Responsive]............16-Build-Website-System
+	- [Off-Platform Project].......17-Fotomatic
 7. Making a Website Responsive
-	- [CSS Flexbox]..................17-Flexbox-Todo-App
-	- [CSS Flexbox]..................18-Tea-Cozy
-	- [CSS Grid]........................19-PupSpa
-	- [CSS Grid]........................20-Task-Board
-	- [CSS Media Queries]........21-Tsunami-Coffee
-	- [CSS Challenge Project]...22-Home-Page-Flexbox*
-	- [CSS Challenge Project]...23-Responsive-Club-Website*
+	- [CSS Flexbox]..................18-Flexbox-Todo-App
+	- [CSS Flexbox]..................19-Tea-Cozy
+	- [CSS Grid]........................20-PupSpa
+	- [CSS Grid]........................21-Task-Board
+	- [CSS Media Queries]........22-Tsunami-Coffee
+	- [CSS Challenge Project]...23-Home-Page-Flexbox*
+	- [CSS Challenge Project]...24-Responsive-Club-Website*
 
 Notes* : to be completed.
 
@@ -72,7 +73,7 @@ Notes* : to be completed.
 
 ## Setup
 1. Clone this repo to your desktop :\
-`git clone https://github.com/ByronMike/MyPortfolio.git`
+`git clone https://github.com/ByronMike/Codecademy-Projects-HTML-CSS.git`
 2. Open the folder of interest.
 3. Open index.html file using local browser.
 
@@ -80,6 +81,6 @@ Notes* : to be completed.
 :heavy_check_mark: This project was validated on October 10, 2022.
 
 ## Contact
-* [Email](mailto:auger.michaell@gmail;com)
+* [Email](mailto:auger.michaell@gmail.com)
 * [GitHub](https://github.com/ByronMike)
 * [LinkedIn](https://www.linkedin.com/in/auger-michael/)
