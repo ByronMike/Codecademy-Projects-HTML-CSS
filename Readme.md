@@ -72,7 +72,7 @@ Notes* : to be completed.
 
 ## Setup
 1. Clone this repo to your desktop :\
-`git clone https://github.com/ByronMike/MyPortfolio.git`
+`git clone https://github.com/ByronMike/Codecademy-Projects-HTML-CSS.git`
 2. Open the folder of interest.
 3. Open index.html file using local browser.
 
